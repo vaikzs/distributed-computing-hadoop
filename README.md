@@ -1,5 +1,5 @@
 Distributed Data Manipulation using Apache Hadoop's Map-Reduce Architecture
-##SYNOPSIS
+##Synopsis
 Hadoop based project that can consolidate and manipulate music contextual data.
 ## Prerequisites
 + JDK 1.8 
