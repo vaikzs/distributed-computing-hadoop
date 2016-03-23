@@ -1,22 +1,16 @@
--------
-READ ME 
--------
-------------
-Requirements
-------------
-JDK 
-JRE
-Hadoop
+## SPECIFICATIONS
++ JDK 1.8 
++ JRE 1.8 
++ Apache Hadoop 2.7.2
 
----------------
-Before we start
----------------
-Please goto your hadoop group user logged in via your Terminal and proceed with the following commands,
+## Before we start
+Register yourself as one of the hadoop group user and proceed with the following commands,
 Make sure hadoop is running before you proceed with the commands
 
-Task0 - Merging the given files: 
- hadoop jar Table0.jar org.Table0 /input0 /output0 – input directory which has all three files(name sensitive) and output directory for Task0
-Output format : 
+#### Task0 - Merging the given files: 
+> hadoop jar Table0.jar org.Table0 /input0 /output0 
+WARNING : input directory which has all three files(name sensitive) and output directory for Task0
+> Output format : 
 <artist_name><SEP><artist_id><I>.....<artist_id><SEP><location><I>......<location><SEP><song><I>......<song>
 
 Task1 - Consolidation of locations, artists and songs: 
