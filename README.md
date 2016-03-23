@@ -2,7 +2,7 @@ Distributed Data Manipulation using Apache Hadoop's Map-Reduce Architecture
 ##Synopsis
 Hadoop based project that can consolidate and manipulate music contextual data.
 ## Prerequisites
-+ Ubuntu Linux OS / [Virtual Box](https://www.virtualbox.org/wiki/Linux_Downloads) 
++ [Virtual Box](https://www.virtualbox.org/wiki/Linux_Downloads) / Ubuntu Linux OS 
 + JDK 1.7 
 + JRE 1.7 
 + [Apache Hadoop 2.7.2](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html)
