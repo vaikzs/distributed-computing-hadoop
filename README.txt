@@ -46,12 +46,4 @@ References:
 4. Hadoop WordCount program – Boilerplate https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html
 
 
-Copyrights
-VAIKUNTH SRIDHARAN
-vaikunthsridharan@gmail.com
-
-
-
-
-
-
+##### Copyrights (C) Vaikunth Sridharan
