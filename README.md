@@ -45,4 +45,4 @@ Minor bugs are there (rare test cases that are not provided in the input dataset
 3. Boiler-plate code from https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html
 
 
-##### (C) 2015 Vaikunth Sridharan 
+##### &copy; 2015 Vaikunth Sridharan
