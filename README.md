@@ -38,7 +38,7 @@ Minor bugs are there (rare test cases that are not provided in the input dataset
 #### References: 
 1. http://stackoverflow.com/questions/2072222/regular-expression-for-positive-and-a-negative-decimal-value-in-java
 2. http://regexr.com/
-3. Hadoop WordCount program – Boilerplate https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html
+3. Boiler-plate code from https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html
 
 
 ##### Copyrights (C) Vaikunth Sridharan
