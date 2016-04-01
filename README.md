@@ -27,6 +27,7 @@ Output format :
 #### Task2 - Analysis on the dataset :
 hadoop jar Table2.jar org.Table2 /output1      /output0              /output2 
 				      Task1O/P    Task0 O/P        Task2O/P
+
 Output format : 
 <artistname><SEP><artist_id><I>.....<artist_id><SEP><location><I>......<location><SEP><song><I>......<song>
 
