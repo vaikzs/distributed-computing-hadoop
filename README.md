@@ -39,8 +39,6 @@ Output format :
 + Task2 has three command line arguments, i.e. args[0] will be Task1's output, args[1] will be Task0's output and args[2] will be the result Task2's output.
 + Location & Artist Names are captured by Regular expression.
 
-#### Bugs : 
-Minor bugs are there (rare test cases that are not provided in the input datasets), apart from that I have all the Tasks working properly! 
 ###### Note : If you want to change the input files (Short files of your own ? ) then you may have to change the code or overwrite the files already there under input0/
 #### References: 
 1. http://stackoverflow.com/questions/2072222/regular-expression-for-positive-and-a-negative-decimal-value-in-java
