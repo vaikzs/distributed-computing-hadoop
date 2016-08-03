@@ -1,4 +1,4 @@
-Distributed Data Manipulation using Apache Hadoop's Map-Reduce Architecture
+#Distributed Data Manipulation using Apache Hadoop's Map-Reduce Architecture
 
 
 ##Synopsis
