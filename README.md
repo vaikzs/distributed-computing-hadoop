@@ -34,7 +34,7 @@ Output format :
 <artistname><SEP><artist_id><I>.....<artist_id><SEP><location><I>......<location><SEP><song><I>......<song>
 
 ###### Execute the above commands in a sequence and you get the output in the specified formats.
-#### Assumptions Made : 
+#### Assumptions Considered : 
 + There can be multiple locations, artistids and songtitles available, so included them all while I was merging in Task0
 + Task2 has three command line arguments, i.e. args[0] will be Task1's output, args[1] will be Task0's output and args[2] will be the result Task2's output.
 + Location & Artist Names are captured by Regular expression.
